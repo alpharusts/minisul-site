@@ -1,0 +1,4 @@
+# Разрешаем скачивать APK с других сайтов (itch.io и др.)
+/downloads/*
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
